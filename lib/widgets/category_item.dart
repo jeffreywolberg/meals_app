@@ -15,12 +15,12 @@ class CategoryItem extends StatelessWidget {
         'id': id,
         'title': title,
       },
-      // MaterialPageRoute(
-      //   builder: (c) {
-      //     return CategoryMealsScreen(this.id, this.title);
-      //   },
-      // ),
     );
+    // MaterialPageRoute(
+    //   builder: (c) {
+    //     return CategoryMealsScreen(this.id, this.title);
+    //   },
+    // ),
   }
 
   @override
